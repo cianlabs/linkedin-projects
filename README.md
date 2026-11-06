@@ -21,9 +21,13 @@ Sources copied from `cianlabs/runbook-copilot` (`architecture.png`, `images/*`).
 
 | File | Use on LinkedIn |
 |------|-----------------|
-| `ESC-2001-result.png` | Practice triage result (Redis / ESC-2001) |
-| `ESC-2001-citations.png` | Runbook citations on ESC-2001 |
-| `ESC-2002-result.png` | Practice triage result (API timeouts / ESC-2002) |
+| `architecture.png` | How the system fits together (M5) |
+| `handoff.png` | Coordinator → specialist loop |
+| `approval-gate.png` | Human Approve before simulated write |
+| `two-scores.png` | Practice 20/20 vs public 10/26 |
+| `ESC-2001-result.png` | Optional practice screenshot |
+| `ESC-2001-citations.png` | Optional citations screenshot |
+| `ESC-2002-result.png` | Optional practice screenshot |
 
 **Live demo:** https://escalation-triage-agent-hjnwi7cnblzl4aptdnkuym.streamlit.app  
 **Repo:** https://github.com/cianlabs/escalation-triage-agent  
