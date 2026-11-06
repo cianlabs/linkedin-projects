@@ -19,7 +19,12 @@ Sources copied from `cianlabs/runbook-copilot` (`architecture.png`, `images/*`).
 
 ## escalation-triage-agent
 
-(Placeholder — add architecture / demo media when filling the second LinkedIn Project.)
+| File | Use on LinkedIn |
+|------|-----------------|
+| `ESC-2001-result.png` | Practice triage result (Redis / ESC-2001) |
+| `ESC-2001-citations.png` | Runbook citations on ESC-2001 |
+| `ESC-2002-result.png` | Practice triage result (API timeouts / ESC-2002) |
 
 **Live demo:** https://escalation-triage-agent-hjnwi7cnblzl4aptdnkuym.streamlit.app  
-**Repo:** https://github.com/cianlabs/escalation-triage-agent
+**Repo:** https://github.com/cianlabs/escalation-triage-agent  
+**Practice eval:** 20/20 offline · **Public baseline:** 10/26 top-1 (reported honestly)
